@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Diana Semeniuc 👋
 
-<!--
-**dianasemeniuc/dianasemeniuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! This is my personal space where I share my journey, projects, and interests in tech, engineering, and creativity.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Currently a student at two universities:
+  - FSPAC – Digital Media
+  - UTCN – Robotics Engineering
+- 🏎️ Formula Student Mechanical Engineer, focusing on composite structures manufacturing
+- ✂️ Hobbies: sewing, crocheting, crafts
+- 🏞️ Lifestyle: hiking, optimizing eating and health habits
+- 🎵 Enjoy music, concerts, and social media content creation
+- 📚 Working on my Digital Media thesis on production and postproduction techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coding & Tech Journey
+- 🌱 New to coding, currently learning:
+  - Python
+  - Machine Learning
+  - Working with datasets and LLMs
+- 🎯 Goals:
+  - Create AI-powered applications
+  - Integrate coding and AI into data analysis and engineering performance optimization
+  - Learn more programming languages and improve software development skills
+- 🛠 Tools: VS Code
+
+## Connect With Me
+- 🔗 LinkedIn: [Diana Semeniuc](https://www.linkedin.com/in/diana-semeniuc-9a0143237)
