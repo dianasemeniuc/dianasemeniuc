@@ -1,27 +1,30 @@
-# Hi there, I'm Diana Semeniuc 👋
+# Diana Semeniuc
 
-Welcome to my GitHub! This is my personal space where I share my journey, projects, and interests in tech, engineering, and creativity.
+Welcome to my GitHub profile. Here I share my work, projects, and ongoing learning in engineering, digital media, and coding.
 
 ## About Me
-- 🎓 Currently a student at two universities:
-  - FSPAC – Digital Media
-  - UTCN – Robotics Engineering
-- 🏎️ Formula Student Mechanical Engineer, focusing on composite structures manufacturing
-- ✂️ Hobbies: sewing, crocheting, crafts
-- 🏞️ Lifestyle: hiking, optimizing eating and health habits
-- 🎵 Enjoy music, concerts, and social media content creation
-- 📚 Working on my Digital Media thesis on production and postproduction techniques
+I am a student at two universities:  
+- **FSPAC** – Digital Media  
+- **UTCN** – Robotics Engineering  
 
-## Coding & Tech Journey
-- 🌱 New to coding, currently learning:
-  - Python
-  - Machine Learning
-  - Working with datasets and LLMs
-- 🎯 Goals:
-  - Create AI-powered applications
-  - Integrate coding and AI into data analysis and engineering performance optimization
-  - Learn more programming languages and improve software development skills
-- 🛠 Tools: VS Code
+I am involved in **Formula Student**, primarily in the Mechanical Department with a focus on **composite structures manufacturing**.  
 
-## Connect With Me
-- 🔗 LinkedIn: [Diana Semeniuc](https://www.linkedin.com/in/diana-semeniuc-9a0143237)
+In my free time, I enjoy **sewing, crocheting, crafts, hiking, and optimizing my nutrition**. I am also interested in **music, concerts, and content creation**.  
+
+Currently, I am working on my **Digital Media thesis** focused on **production and postproduction techniques**.
+
+## Coding & Tech Interests
+I am new to coding and currently learning:  
+- Python  
+- Machine Learning  
+- Working with datasets and LLMs  
+
+My goals are to:  
+- Develop AI-powered applications  
+- Apply coding and AI to data analysis and engineering performance optimization  
+- Expand my programming skills across multiple languages  
+
+**Tools:** VS Code  
+
+## Connect
+- LinkedIn: [Diana Semeniuc](https://www.linkedin.com/in/diana-semeniuc-9a0143237)
